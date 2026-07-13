@@ -96,7 +96,6 @@ Project7_Mutational_Signatures/
     ├── mutation_matrix_96.csv       # 11,269 patients x 96 contexts
     ├── signatures.csv               # 5 extracted NMF signatures
     ├── exposures.csv                # Patient signature exposures
-    ├── cosmic_best_matches.csv      # Best COSMIC match per signature
     ├── cosmic_similarity_full.csv   # Full cosine similarity matrix
     ├── reconstruction_error.png     # NMF elbow plot
     └── signatures_plot.png          # Signature bar charts
